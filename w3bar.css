@@ -1,0 +1,139 @@
+*{
+    margin: 0px;
+    padding: 0%;
+ 
+    border: none; 
+    
+     
+}
+
+.w3logo{
+    width: 30px;
+    height: 30px;
+
+    
+}
+
+li{
+    display: inline;
+    padding: 5px;
+    font-family: 'Source Sans Pro Topnav', sans-serif;
+    font-size: 13px;
+    font-weight: bold;
+
+}
+
+select{
+    font-family: 'Source Sans Pro Topnav', sans-serif;
+    font-size: 13px;
+    font-weight: bold;
+}
+
+.header-left{
+    display: flex;
+    align-items: center;
+    justify-content:space-between;
+    padding-left: 10px;
+    padding-top: 5px;   
+    padding-right: 10px;
+}
+.button{
+    display: inline;
+    display: flex;
+    gap: 6px;
+}
+ul{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 25px;
+    padding-right: 10px;
+    
+}
+
+.button{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-bottom: 8px;  
+    background-color: rgb(171, 171, 171);
+    border-radius: 15px;
+    padding: 0px;
+       
+}
+
+.r1{
+    padding: 130px;
+    color: #fff;
+    background-color: black;
+    padding: 5px 10px 5px 10px;
+    border-radius: 22px;
+
+}
+
+.r2{
+    padding: 130px;
+    color: black;
+    background-color: rgb(225, 148, 160);
+    padding: 5px 10px 5px 10px;
+    border-radius: 22px; 
+}
+
+.r3{
+    padding: 130px;
+    color: black;
+    background-color: rgb(222, 222, 117);
+    padding: 5px 10px 5px 10px;
+    border-radius: 22px;  
+}
+
+.btn1{
+    padding: 100px;
+    color: #fff;
+    background-color: rgb(29, 119, 29);
+    padding: 5px 10px 5px 10px;
+    border-radius: 22px;
+    font-family: 'Source Sans Pro Topnav', sans-serif;
+    font-size: 13px;
+    font-weight: bold; 
+}
+
+.btn2{
+    padding: 100px;
+    color: black;
+    background-color: rgb(171, 171, 171);
+    padding: 5px 10px 5px 10px;
+    border-radius: 22px; 
+    font-family: 'Source Sans Pro Topnav', sans-serif;
+    font-size: 13px;
+    font-weight: bold;
+}
+
+nav{
+    background-color: rgb(0, 0, 0);
+    margin-top: 10px;
+    height: 25px;
+    width: 100%;
+    gap: 15px;
+    color: #fff;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    
+}
+.text{
+    display: flex;
+    gap: 40px;
+    padding-left: 10px;
+}
+.h1:nth-child(10){
+    background-color: rgb(39, 114, 39);
+}
+
+.button{
+    gap: 2px;
+}
+
+
+
+
